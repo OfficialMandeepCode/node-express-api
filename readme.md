@@ -29,9 +29,13 @@ Contact on: <b>officialmandeepsp@gmail.com</b>
 <li> DB_PASSWORD </li>
 <li> DB_DATABSE </li>
 </ul>
-<li> Run and Enjoy 😊
+<li> Run and Enjoy 😊 </li>
+<li> Find Database backup in <b>db backup</b> folder</li>
+<br>
+
 </ul>
 
+<b> Postman Collection Link </b>https://www.getpostman.com/collections/8626b52d92e5df96d71b
 ## Warning!
 
 Don't use this code in our Production without informing us.
